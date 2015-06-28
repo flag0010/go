@@ -76,7 +76,7 @@ func main() {
 	duplicate = []string{Int2str(2343), Int2str(2343), Float2str(32.323), Int2str(234)}
 	dup_map = Count_all(duplicate, 1)
 	fmt.Println(dup_map)
-    example := []int{1, 25, 3, 5, 4}
+        example := []int{1, 25, 3, 5, 4}
 	sort.Ints(example)
 	example = Rev(example)
 	fmt.Println(example)
