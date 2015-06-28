@@ -1,0 +1,6 @@
+All these make go a little more like python:
+
+https://github.com/gosimple/listdict
+https://github.com/fatih/set
+https://github.com/xchapter7x/goutil
+http://godoc.org/bitbucket.org/gotamer/tuple
